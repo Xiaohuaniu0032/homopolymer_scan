@@ -1,2 +1,2 @@
 # homopolymer_scan
-Find hp position from an target BED file 
+Find All HP positions from an target BED file 
